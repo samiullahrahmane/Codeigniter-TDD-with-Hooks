@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>  THis is my first try</title>
+</head>
+<body>
+
+<?php
+echo "this is php file";
+?>
